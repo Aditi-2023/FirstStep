@@ -1,0 +1,4 @@
+1. add the option for the employers to ask for the data of students for recruitments 
+2. a form is already there for the students to apply
+3. upload cv option 
+4. add frontend - js and backend - php validation
